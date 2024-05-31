@@ -1,4 +1,6 @@
-URL
+前：[Section3.2 ウォーターフォール開発とは](https://github.com/koyama86/Agile_Chapter1.2/blob/main/Section3.1)
+   
+次：[Section4 スクラムのチーム・価値観](https://github.com/koyama86/Agile_Chapter1.2/blob/main/Section4)
 
 # Section3 ウォーターフォール開発とアジャイル開発の違い
 ## 概要：計画駆動
