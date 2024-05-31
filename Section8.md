@@ -1,4 +1,4 @@
-[Section9](https://github.com/koyama86/Agile_Chapter1.2/blob/main/Section9)
+[Section9](https://github.com/koyama86/Agile_Chapter1.2/blob/main/section9.md)
 
 # Section8 **ペアプログラミング**
 
