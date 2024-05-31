@@ -1,4 +1,4 @@
-[section10](section10)
+[Section10](https://github.com/koyama86/Agile_Chapter1.2/blob/main/Section10)
 
 # section9 継続的なコードの改善
 
