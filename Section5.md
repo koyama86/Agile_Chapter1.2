@@ -1,4 +1,4 @@
-URL
+[Section6](https://github.com/koyama86/Agile_Chapter1.2/blob/main/Section6)
 
 # Section5 __期限の決定__
 
