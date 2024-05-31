@@ -1,4 +1,7 @@
-URL
+前：[Section2 カウボーイプログラミングとは](https://github.com/koyama86/Agile_Chapter1.2/blob/main/Section2)
+
+
+次：[Section3.2 ウォーターフォールとの違い](https://github.com/koyama86/Agile_Chapter1.2/blob/main/Section3.2)
    
 # Section3 ウォーターフォール開発とは
 ## 概要
