@@ -1,3 +1,6 @@
+
+[section9](section9)
+
 # section10 コードの共有化
 
 ## 概要
